@@ -1,0 +1,15 @@
+Promptus/.git_backup/
+**/checkpoints/
+**/engine/
+**/saved_models/
+**/results/
+*.safetensors
+*.engine
+*.onnx
+*.pth
+*.pt
+*.prompt
+*.mp4
+__pycache__/
+.idea/
+.DS_Store
